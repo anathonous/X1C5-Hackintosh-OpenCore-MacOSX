@@ -424,16 +424,12 @@
 				<key>model</key>
 				<string>Ethernet Connection (4) I219-V</string>
 			</dict>
-			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
+			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
 			<dict>
-				<key>AAPL,slot-name</key>
-				<string>Internal@0,31,3</string>
-				<key>device_type</key>
-				<string>Audio device</string>
 				<key>layout-id</key>
-				<integer>47</integer>
-				<key>model</key>
-				<string>Sunrise Point-LP HD Audio</string>
+				<data>
+				AwAAAA==
+				</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
@@ -1722,22 +1718,20 @@
 				<data>Ag==</data>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
-			<dict>
-				<key>ForceDisplayRotationInEFI</key>
-				<integer>0</integer>
-				<key>StartupMute</key>
-				<data>AA==</data>
+		        <dict>
 				<key>SystemAudioVolume</key>
-				<data>gA==</data>
+				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 swd_panic=1 igfxonln=1 alcid=71</string>
+				<string>keepsyms=1 debug=0x100 -lilubetaall -igfxblr</string>
 				<key>csr-active-config</key>
-				<data>AAAAAA==</data>
+				<data>7w8AAA==</data>
 				<key>prev-lang:kbd</key>
-				<string>&lt;&gt;</string>
+				<data></data>
 				<key>run-efi-updater</key>
 				<string>No</string>
-			</dict>
+				<key>ForceDisplayRotationInEFI</key>
+				<integer>0</integer>
+			</dict>	
 		</dict>
 		<key>Delete</key>
 		<dict>
@@ -1880,24 +1874,20 @@
 			<key>AudioCodec</key>
 			<integer>0</integer>
 			<key>AudioDevice</key>
-			<string>PciRoot(0x0)/Pci(0x1F,0x3)</string>
-			<key>AudioOutMask</key>
-			<integer>1</integer>
+			<string>PciRoot(0x0)/Pci(0x1b,0x0)</string>
+			<key>AudioOut</key>
+			<integer>0</integer>
 			<key>AudioSupport</key>
-			<true/>
-			<key>DisconnectHda</key>
 			<false/>
-			<key>MaximumGain</key>
-			<integer>-15</integer>
-			<key>MinimumAssistGain</key>
-			<integer>-30</integer>
-			<key>MinimumAudibleGain</key>
-			<integer>-55</integer>
+			<key>MinimumVolume</key>
+			<integer>20</integer>
 			<key>PlayChime</key>
-			<string>Enabled</string>
+			<string>Auto</string>
 			<key>ResetTrafficClass</key>
 			<false/>
 			<key>SetupDelay</key>
+			<integer>0</integer>
+			<key>VolumeAmplifier</key>
 			<integer>0</integer>
 		</dict>
 		<key>ConnectDrivers</key>
