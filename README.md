@@ -1,4 +1,4 @@
-Lenovo Thinkpad X1 Carbon 5th Gen 6300u Intel Graphics 520 macOS Sonoma 14.3.1 EFI Opencore.
+Lenovo Thinkpad X1 Carbon 5th Gen 6300u Intel Graphics 520 macOS Sonoma 14.3.1 EFI Opencore. 20K4, 20K3.
 
 Copy EFI for OpenCore.
 
