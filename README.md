@@ -37,7 +37,7 @@ Refer to [x1c5-Platform_Specifications](https://github.com/B0hrer/thinkpad-x1c5-
 
 | Processor Number                                                                                                                   | # of Cores | # of Threads | Base Frequency | Max Turbo Frequency | Cache | Memory Types | Graphics      |
 | :--------------------------------------------------------------------------------------------------------------------------------- | :--------- | :----------- | :------------- | :------------------ | :---- | :----------- | :------------ |
-| [i7-6300U](https://ark.intel.com/content/www/us/en/ark/products/88190/intel-core-i5-6300u-processor-3m-cache-up-to-3-00-ghz.html) | 2          | 4            | 2.4 GHz        | 3.0 GHz             | 3 MB  | LPDDR3-1866  | Intel UHD 520 |
+| [i5-6300U](https://ark.intel.com/content/www/us/en/ark/products/88190/intel-core-i5-6300u-processor-3m-cache-up-to-3-00-ghz.html) | 2          | 4            | 2.4 GHz        | 3.0 GHz             | 3 MB  | LPDDR3-1866  | Intel UHD 520 |
 
 **Peripherals:**
 
