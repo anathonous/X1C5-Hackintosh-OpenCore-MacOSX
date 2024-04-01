@@ -7,7 +7,7 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-latest-green)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![LICENSE](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-<img align="right" src="https://i.imgur.com/I3yUS4Q.png" alt="Critter" width="300">
+<img align="right" src="https://imgur.com/a/HmduvDh.png" alt="macOS" width="300">
 
 #### I am not responsible for any damages you may cause.
 
