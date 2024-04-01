@@ -14,7 +14,7 @@
 
 > ## SUMMARY:
 
-**`In short, x1c5-hackintosh is very stable and is currently my daily driver. I quad biit on this machine with Linux, FreeBSD, Windows, MacOS and all provide an enjoyable experience. Overall macOS works fine on this machine.`**
+*`In short, x1c5-hackintosh is very stable and is currently my daily driver. I quad boot on this machine with Linux, FreeBSD, Windows, MacOS and all provide an enjoyable experience. Overall macOS works fine on this machine.`*
 
 
 > ## NEEDED:
