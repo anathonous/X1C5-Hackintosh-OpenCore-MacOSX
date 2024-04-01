@@ -67,7 +67,4 @@ Intel JHL6540 (Alpine Ridge 4C) Thunderbolt 3 Bridge
 
 > ## Credits and Thank You:
 
-[@tylernguyen](https://github.com/tylernguyen/x1c6-hackintosh) for creating a great guide, which I could modify to work on th x1c5 and for the great README template I could copy for my repo  
-[@stevezhengshiqi](https://github.com/stevezhengshiqi) for the one-key-cpufriend script.  
-[@corpnewt](https://github.com/corpnewt) for CPUFriendFriend.  
-[@xzhih](https://github.com/xzhih) for one-key-hidpi.  
+[@tylernguyen](https://github.com/tylernguyen/x1c6-hackintosh)
