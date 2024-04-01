@@ -9,8 +9,6 @@
 
 <img align="right" src="https://imgur.com/HdvMc8E.png" alt="macOS" width="300">
 
-#### I am not responsible for any damages you may cause.
-
 
 > ## SUMMARY:
 
