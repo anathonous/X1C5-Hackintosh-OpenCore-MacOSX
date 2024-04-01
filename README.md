@@ -6,4 +6,5 @@ Boot to Sonoma 14.3.1. Offline installer. (make take several reboots but will wo
 
 Install. Profit! 
 
-(It is possible to updated to Sonoma 14.4.1 but you have to disable SecureBootModels in config.plist for opencore. Change it from Defaults to Disabled and then back again after the update.)
+(It is possible to updated to Sonoma 14.4.1 but you have to disable SecureBootModels in config.plist for opencore. Change it from Defaults to Disabled and then back again after the update.)(Sonoma 14.4.1 also needs an updated kext as I have been reading reports online. [
+](https://github.com/OpenIntelWireless/itlwm/releases/download/v2.3.0-alpha/AirportItlwm-Sonoma14.4-v2.3.0-DEBUG-alpha-e886ebb.zip) )
