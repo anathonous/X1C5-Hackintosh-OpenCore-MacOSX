@@ -6,6 +6,7 @@
 [![MODEL](https://img.shields.io/badge/Model-20K4*-red)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![OpenCore](https://img.shields.io/badge/OpenCore-latest-green)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![LICENSE](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+<img align="right" src="img/thinkpad.png" alt="thinkpad" width="300">
 
 <img align="right" src="https://imgur.com/HdvMc8E.png" alt="macOS" width="300">
 
@@ -60,10 +61,6 @@ Intel JHL6540 (Alpine Ridge 4C) Thunderbolt 3 Bridge
 
 - [dortania Hackintosh guides](https://github.com/dortania)
 - [The Vanilla Laptop Guide](https://fewtarius.gitbook.io/laptopguide/)
-- Daliansky's [Hackintool tutorial](https://translate.google.com/translate?js=n&sl=auto&tl=en&u=https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html).
-- [Getting Started with ACPI](https://khronokernel.github.io/Getting-Started-With-ACPI/)
-- [WhateverGreen Intel HD Manual](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.en.md)
-  
 
 > ## Credits and Thank You:
 
