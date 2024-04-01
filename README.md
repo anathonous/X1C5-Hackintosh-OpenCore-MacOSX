@@ -23,10 +23,10 @@ A macOS machine is needed: to create install drives. A usb key for Opencore and 
 
 
 > ## INSTALL:
-Create a bootable EFI drive. Copy over the OpenCore files.
-Create a bootable macOS install. On a Mac. Download 14.3.1. Using gibMacos. Install the InstallAssistant.pkg. Show files on macOS Install Sonoma.app. createinstall media on a 32GB flashdrive. 
-Install Sonoma 14.3.1. May take several reboots. 
-Done.
+Create a bootable EFI drive. Copy over the OpenCore files.<br>
+Create a bootable macOS install. On a Mac. Download 14.3.1. Using gibMacos. Install the InstallAssistant.pkg. Show files on macOS Install Sonoma.app. createinstall media on a 32GB flashdrive. <br>
+Install Sonoma 14.3.1. May take several reboots. <br>
+Done.<br>
 
 ## UPDATE
 If you edit your opencore config.efi and change SecureBootModel from Defaults to Disabled. You can rerun the macOS Install Sonoma.app for 14.4.1 and it will update to Sonoma 14.4.1. You will need to change it back and update Airportitlwm.kext though. As they do not Jive. Download the [latest](https://github.com/OpenIntelWireless/itlwm/releases/download/v2.3.0-alpha/AirportItlwm-Sonoma14.4-v2.3.0-DEBUG-alpha-e886ebb.zip).
