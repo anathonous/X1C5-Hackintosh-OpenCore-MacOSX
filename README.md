@@ -63,12 +63,7 @@ TrackPad: ELAN
 - Daliansky's [Hackintool tutorial](https://translate.google.com/translate?js=n&sl=auto&tl=en&u=https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html).
 - [Getting Started with ACPI](https://khronokernel.github.io/Getting-Started-With-ACPI/)
 - [WhateverGreen Intel HD Manual](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.en.md)
-
-> ## OTHER x1c6-hackintosh REPOSITORIES:
-
-[tylernguyen/x1c6-hackintosh](https://github.com/tylernguyen/x1c6-hackintosh)
-[zhtengw/EFI-for-X1C6-hackintosh](https://github.com/zhtengw/EFI-for-X1C6-hackintosh)  
-[Colton-Ko/macOS-ThinkPad-X1C6](https://github.com/Colton-Ko/macOS-ThinkPad-X1C6)  
+  
 
 > ## Credits and Thank You:
 
