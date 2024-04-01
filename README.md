@@ -28,21 +28,17 @@ changes 01.04.2023
 
 > ## SUMMARY:
 
-**`In short, x1c5-hackintosh is very stable and is currently my daily driver. I use macOS and Windows on this machine and both provide an enjoyable experience. Overall macOS is a rocksolid performer so I can fully recommend this.`**
+**`In short, x1c5-hackintosh is very stable and is currently my daily driver. I quad biit on this machine with Linux, FreeBSD, Windows, MacOS and all provide an enjoyable experience. Overall macOS works fine on this machine.`**
 
 
 > ## NEEDED:
 
-A macOS machine would be VERY useful: to create install drives, and for when your ThinkPad cannot boot. Though it is not completely necessary.  
-Flash drive, 16GB or more.  
-Xcode works fine for editing plist files, but I prefer [PlistEdit Pro](https://www.fatcatsoftware.com/plisteditpro/).  
-[MaciASL](https://github.com/acidanthera/MaciASL), for patching ACPI tables.  
-[IOJones](https://github.com/acidanthera/IOJones), for diagnosis.  
-[Hackintool](https://www.insanelymac.com/forum/topic/335018-hackintool-v286/), for diagnosis.
+A macOS machine is needed: to create install drives. A usb key for Opencore and a usb for macOS Installer.
 
-> ## WHERE TO START:
 
-Explore links included this README, especially those in references and other x1c6-hackintosh repos.
+> ## INSTALL:
+
+
 
 
 > ## MY SPECIFICATIONS:
@@ -94,9 +90,3 @@ Create a pull request if you like to be added, final decision at my discreation.
 [@stevezhengshiqi](https://github.com/stevezhengshiqi) for the one-key-cpufriend script.  
 [@corpnewt](https://github.com/corpnewt) for CPUFriendFriend.  
 [@xzhih](https://github.com/xzhih) for one-key-hidpi.  
-
-The greatest thank you and appreciation to [@Acidanthera](https://github.com/acidanthera), without whom's work, none of this would be possible.
-
-And to everyone else who supports and uses my project.
-
-Please let me know if I missed you.
