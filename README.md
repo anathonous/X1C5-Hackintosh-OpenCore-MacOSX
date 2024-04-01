@@ -61,4 +61,4 @@ TrackPad: ELAN
 
 > ## Credits and Thank You:
 
-[@tylernguyen](https://github.com/tylernguyen/x1c6-hackintos
+[@tylernguyen](https://github.com/tylernguyen/x1c6-hackintos)
