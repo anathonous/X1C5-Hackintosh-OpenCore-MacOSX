@@ -23,8 +23,8 @@ A macOS machine is needed to: Create install drives. A usb key for Opencore and 
 
 
 > ## INSTALL:
-Create a bootable EFI drive. Copy over the OpenCore files.<br>
-Create a bootable macOS install. On a Mac. Download 14.3.1. Using [gibMacos](https://github.com/corpnewt/gibMacOS). Install the InstallAssistant.pkg. Show files on macOS Install Sonoma.app. createinstall media on a 32GB flashdrive. <br>
+Create a bootable EFI drive (format a drive as fat32). Copy over the OpenCore(EFI) files.<br>
+Create a bootable macOS install. On a Mac. Download 14.3.1. Using [gibMacos](https://github.com/corpnewt/gibMacOS). Install the InstallAssistant.pkg. Show files on macOS Install Sonoma.app. [createinstall](https://support.apple.com/en-us/101578) media on a 32GB flashdrive. <br>
 Install Sonoma 14.3.1. May take several reboots. <br>
 Done.<br>
 
