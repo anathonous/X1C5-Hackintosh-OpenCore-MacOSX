@@ -2,8 +2,8 @@
 
 [![macOS](https://img.shields.io/badge/macOS-Sonoma-A020F0.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![version](https://img.shields.io/badge/14.4.1-yellow)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![BIOS](https://img.shields.io/badge/BIOS-1.66-blue)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![MODEL](https://img.shields.io/badge/Model-20HQ*-blue)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![BIOS](https://img.shields.io/badge/BIOS-1.66-red)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![MODEL](https://img.shields.io/badge/Model-20K4*-red)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![OpenCore](https://img.shields.io/badge/OpenCore-latest-green)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![LICENSE](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
