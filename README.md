@@ -50,12 +50,9 @@ TrackPoint: PS/2
 TrackPad: ELAN
 ```
 
-**Display:**
-14.0" (355mm) FHD IPS (1920x1080)
-**Audio:**
-CX11871 Audio Codec
-**Thunderbolt:**
-Intel JHL6540 (Alpine Ridge 4C) Thunderbolt 3 Bridge
+**Display:**  14.0" (355mm) FHD IPS (1920x1080)
+**Audio:**  CX11871 Audio Codec
+**Thunderbolt:**  Intel JHL6540 (Alpine Ridge 4C) Thunderbolt 3 Bridge
 
 > ## Read These (References):
 
@@ -64,4 +61,4 @@ Intel JHL6540 (Alpine Ridge 4C) Thunderbolt 3 Bridge
 
 > ## Credits and Thank You:
 
-[@tylernguyen](https://github.com/tylernguyen/x1c6-hackintosh
+[@tylernguyen](https://github.com/tylernguyen/x1c6-hackintos
