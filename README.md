@@ -19,7 +19,7 @@
 
 > ## NEEDED:
 
-A macOS machine is needed: to create install drives. A usb key for Opencore and a usb for macOS Installer.
+A macOS machine is needed to: Create install drives. A usb key for Opencore and a usb key for macOS Installer.
 
 
 > ## INSTALL:
