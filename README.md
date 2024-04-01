@@ -7,6 +7,7 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-latest-green)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![LICENSE](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 <img align="right" src="img/thinkpad.png" alt="thinkpad" width="300"><br>
+
 <img align="right" src="https://imgur.com/HdvMc8E.png" alt="macOS" width="300">
 
 
