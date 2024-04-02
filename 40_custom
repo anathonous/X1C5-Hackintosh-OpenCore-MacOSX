@@ -1,0 +1,5 @@
+## Linux  grub users place in file /etc/grub.d/40_custom and "grub-mkconfig -o /boot/grub/grub.cfg" as root
+menuentry "macOS Sonoma" --class macosx {
+	search --file --no-floppy --set=root /EFI/OpenCore/OC/OpenCore.efi
+	chainloader /EFI/OpenCore/OC/OpenCore.efi
+}
