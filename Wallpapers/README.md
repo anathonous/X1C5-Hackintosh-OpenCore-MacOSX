@@ -1,11 +1,11 @@
 <center>
-<img src=thinkpadhippie1.png width=400></img><br>
-<img src=thinkpadhippie2.png width=400></img><br>
-<img src=thinkpadhippie3.png width=400></img><br>
-<img src=thinkpadhippie4.png width=400></img><br>
-<img src=thinkpadhippie5.png width=400></img><br>
-<img src=thinkpad1.png width=400></img><br>
-<img src=thinkpad2.png width=400></img><br>
-<img src=thinkpad3.png width=400></img><br>
-<img src=thinkpad4.png width=400></img><br>
+<img src=https://github.com/anathonous/X1C5-Hackintosh-OpenCore-Sonoma/tree/main/Wallpapersthinkpadhippie1.png width=400></img><br>
+<img src=https://github.com/anathonous/X1C5-Hackintosh-OpenCore-Sonoma/tree/main/Wallpapersthinkpadhippie2.png width=400></img><br>
+<img src=https://github.com/anathonous/X1C5-Hackintosh-OpenCore-Sonoma/tree/main/Wallpapersthinkpadhippie3.png width=400></img><br>
+<img src=https://github.com/anathonous/X1C5-Hackintosh-OpenCore-Sonoma/tree/main/Wallpapersthinkpadhippie4.png width=400></img><br>
+<img src=https://github.com/anathonous/X1C5-Hackintosh-OpenCore-Sonoma/tree/main/Wallpapersthinkpadhippie5.png width=400></img><br>
+<img src=https://github.com/anathonous/X1C5-Hackintosh-OpenCore-Sonoma/tree/main/Wallpapersthinkpad1.png width=400></img><br>
+<img src=https://github.com/anathonous/X1C5-Hackintosh-OpenCore-Sonoma/tree/main/Wallpapersthinkpad2.png width=400></img><br>
+<img src=https://github.com/anathonous/X1C5-Hackintosh-OpenCore-Sonoma/tree/main/Wallpapersthinkpad3.png width=400></img><br>
+<img src=https://github.com/anathonous/X1C5-Hackintosh-OpenCore-Sonoma/tree/main/Wallpapersthinkpad4.png width=400></img><br>
 </center>
