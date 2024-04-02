@@ -14,7 +14,7 @@
 > ## PHOTOS:
 <img align="right" src="img/thinkpad.png" alt="thinkpad" width="250">
 <img align="right" src="img/screenshot.png" alt="macOS" width="250">
-<img align="right" src="img/grub.jpg" alt="grub" width="250">
+<img align="right" src="img/grub.jpg" alt="grub" width="250"><br><br>
 
 
 > ## NEEDED:
