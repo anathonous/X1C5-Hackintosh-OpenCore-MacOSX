@@ -427,9 +427,7 @@
 			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
 			<dict>
 				<key>layout-id</key>
-				<data>
-				AwAAAA==
-				</data>
+				<data>AwAAAA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
@@ -1724,7 +1722,7 @@
 				<key>boot-args</key>
 				<string>keepsyms=1 debug=0x100 -lilubetaall -igfxblr</string>
 				<key>csr-active-config</key>
-				<data>7w8AAA==</data>
+				<data>AwAAAA==</data>
 				<key>prev-lang:kbd</key>
 				<data></data>
 				<key>run-efi-updater</key>
