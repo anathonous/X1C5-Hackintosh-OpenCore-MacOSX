@@ -7,13 +7,14 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-latest-green)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![LICENSE](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-> ## PHOTOS:
-<img align="left" src="img/thinkpad.png" alt="thinkpad" width="250"><br>
-<img align="left" src="img/screenshot.png" alt="macOS" width="250"><br>
-<img align="left" src="img/grub.jpg" alt="grub" width="250"> <br>
 
 > ## SUMMARY:
 *In short, x1c5-hackintosh is very stable and is currently my daily driver. I quad boot on this machine with Linux, FreeBSD, Windows, MacOS and all provide an enjoyable experience. Overall macOS works fine on this machine.*
+
+> ## PHOTOS:
+<img align="right" src="img/thinkpad.png" alt="thinkpad" width="250">
+<img align="right" src="img/screenshot.png" alt="macOS" width="250">
+<img align="right" src="img/grub.jpg" alt="grub" width="250">
 
 
 > ## NEEDED:
