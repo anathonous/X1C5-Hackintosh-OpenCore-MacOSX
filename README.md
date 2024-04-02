@@ -14,13 +14,11 @@
 > ## PHOTOS:
 <img align="right" src="img/thinkpad.png" alt="thinkpad" width="250">
 <img align="right" src="img/screenshot.png" alt="macOS" width="250">
-<img align="right" src="img/grub.jpg" alt="grub" width="250"><br><br>
-
+<img align="right" src="img/grub.jpg" alt="grub" width="250">
 
 > ## NEEDED:
 
 A macOS machine is needed to: Create install drives. A usb key for Opencore and a usb key for macOS Installer.
-
 
 > ## INSTALL:
 Create a bootable EFI drive (format a drive as fat32). Copy over the OpenCore(EFI) files.<br>
