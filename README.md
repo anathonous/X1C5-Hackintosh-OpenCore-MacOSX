@@ -11,7 +11,7 @@
 > ## SUMMARY:
 *In short, x1c5-hackintosh is very stable and is currently my daily driver. I quad boot on this machine with Linux, FreeBSD, Windows, MacOS and all provide an enjoyable experience. Overall macOS works fine on this machine.*
 <img style="vertical-align: top;" src="img/screenshot.png" alt="macOS" width="250">
-<a href="https://github.com/anathonous/Purple-theme"><img style="vertical-align: top;" src="img/grub.jpg" alt="grub" width="190"></a>
+<a href="https://github.com/anathonous/lenovo-grub-gentoo-theme"><img style="vertical-align: top;" src="img/grub.jpg" alt="grub" width="190"></a>
 <img style="vertical-align: top;" src="img/thinkpad.png" alt="thinkpad" width="250">
 > ## NEEDED:
 
