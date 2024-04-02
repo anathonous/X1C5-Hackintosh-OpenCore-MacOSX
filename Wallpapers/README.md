@@ -1,1 +1,9 @@
-
+![](thinkpadhippie1.png | width=400)
+![](thinkpadhippie2.png | width=400)
+![](thinkpadhippie3.png | width=400)
+![](thinkpadhippie4.png | width=400)
+![](thinkpadhippie5.png | width=400)
+![](thinkpad1.png | width=400)
+![](thinkpad2.png | width=400)
+![](thinkpad3.png | width=400)
+![](thinkpad4.png | width=400)
