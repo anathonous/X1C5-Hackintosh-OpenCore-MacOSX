@@ -10,7 +10,7 @@
 > ## SUMMARY:
 <img align="right" src="img/thinkpad.png" alt="thinkpad" width="300"><br>
 
-<img align="right" src="https://imgur.com/HdvMc8E.png" alt="macOS" width="300">
+<img align="right" src="img/screenshot.png" alt="macOS" width="300">
 
 
 *In short, x1c5-hackintosh is very stable and is currently my daily driver. I quad boot on this machine with Linux, FreeBSD, Windows, MacOS and all provide an enjoyable experience. Overall macOS works fine on this machine.*
