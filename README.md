@@ -62,3 +62,5 @@ TrackPad: ELAN
 > ## Credits and Thank You:
 
 [@tylernguyen](https://github.com/tylernguyen/x1c6-hackintos)
+
+Attn: Following configuration will likely run on any Lenovo product based on Skylake with a Intel graphics card. May require some tweaking.
