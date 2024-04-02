@@ -1,4 +1,4 @@
-# macOS on Thinkpad X1 Carbon 5th Generation, Model 20HQ\*
+# macOS on Thinkpad X1 Carbon 5th Generation, Model 20K4\*
 
 [![macOS](https://img.shields.io/badge/macOS-Sonoma-A020F0.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![version](https://img.shields.io/badge/14.3.1-yellow)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
