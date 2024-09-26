@@ -26,6 +26,9 @@ Done.<br>
 >## UPDATE:
 If you edit your opencore config.plist and change SecureBootModel from Defaults to Disabled. You will need to Reset NVRam and Clearn NVRAM afterwards. Then you can rerun the macOS Install Sonoma.app after downloading the InstallAssistant.pkg for 14.4.1 using gibMacOS and it will update to Sonoma 14.4.1. It will reboot a few times during the update. Then the second option for macOS update will disapear. You will need to change it back and update Airportitlwm.kext though. As they do not Jive. Download the [latest wifi](https://github.com/OpenIntelWireless/itlwm/releases/download/v2.3.0-alpha/AirportItlwm-Sonoma14.4-v2.3.0-DEBUG-alpha-e886ebb.zip) and update the three bluetooth related kexts [latest bluetooth](https://github.com/acidanthera/BrcmPatchRAM/releases)
 
+>## UPDATE 2:
+Updated to be able to do a clean install to 14.4.1 from USB Key. If having bluetooth issues install sleepwatcher and install restartbt to /etc/rc.wake.
+
 > ## MY SPECIFICATIONS:
 
 Refer to [x1c5-Platform_Specifications](https://github.com/B0hrer/thinkpad-x1c5-hackintosh/blob/master/docs/ThinkPad_X1_Carbon_5th_Gen_Spec.PDF) for possible stock ThinkPad X1 5th Gen configurations.
