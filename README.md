@@ -32,6 +32,9 @@ Updated to be able to do a clean install to 14.4.1 from USB Key. Download Releas
 >## UPDATE 3:
 Updated to Sequoia. Download Release 3. Wifi will work with [Heliport](https://github.com/OpenIntelWireless/HeliPort).
 
+Just use release 1 for 14.3.1, release 2 for 14.4.1, release 3 for 15.0.
+
+
 > ## MY SPECIFICATIONS:
 
 Refer to [x1c5-Platform_Specifications](https://github.com/B0hrer/thinkpad-x1c5-hackintosh/blob/master/docs/ThinkPad_X1_Carbon_5th_Gen_Spec.PDF) for possible stock ThinkPad X1 5th Gen configurations.
