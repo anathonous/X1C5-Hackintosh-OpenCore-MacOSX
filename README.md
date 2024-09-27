@@ -1,7 +1,7 @@
 # macOS on Thinkpad X1 Carbon 5th Generation, Model 20K4\*
 
-[![macOS](https://img.shields.io/badge/macOS-Sonoma-A020F0.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![version](https://img.shields.io/badge/14.3.1-yellow)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![macOS](https://img.shields.io/badge/macOS-Sequoia-A020F0.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![version](https://img.shields.io/badge/15.0.0-yellow)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![BIOS](https://img.shields.io/badge/BIOS-1.66-red)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![MODEL](https://img.shields.io/badge/Model-20K4*-red)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![OpenCore](https://img.shields.io/badge/OpenCore-latest-green)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
