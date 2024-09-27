@@ -30,7 +30,7 @@ If you edit your opencore config.plist and change SecureBootModel from Defaults 
 Updated to be able to do a clean install to 14.4.1 from USB Key. Download Release 2. If having bluetooth issues install sleepwatcher and install restartbt to /etc/rc.wake.
 
 >## UPDATE 3:
-Updated to Sequoia. Download Release 4. Wifi will work with [Heliport](https://github.com/OpenIntelWireless/HeliPort). Bluetooth nonfunctional at this time.
+Updated to Sequoia. Download Release 3. Wifi will work with [Heliport](https://github.com/OpenIntelWireless/HeliPort).
 
 > ## MY SPECIFICATIONS:
 
