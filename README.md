@@ -32,7 +32,7 @@ Updated to be able to do a clean install to 14.4.1 from USB Key. Download Releas
 >## UPDATE 3:
 Updated to Sequoia. Works with 15.0 and 15.0.1. Download Release 3. Wifi will work with [Heliport](https://github.com/OpenIntelWireless/HeliPort).
 
-Just use release 1 for 14.3.1, release 2 for 14.4.1, release 3 for 15.0 and 15.0.1. 
+Just use release 1 for 14.3.1, release 2 for 14.4.1, release 3 for 15.0 / 15.0.1 / 15.1.
 
 
 > ## MY SPECIFICATIONS:
