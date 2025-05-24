@@ -34,6 +34,8 @@ Updated to Sequoia. Works with 15.0 and 15.0.1. Download Release 3. Wifi will wo
 
 Just use release 1 for 14.3.1, release 2 for 14.4.1, release 3 for 15.0 / 15.0.1 / 15.1.
 
+>## UPDATE 4:
+Release 4 works with all 15 - 15.5 releases.
 
 > ## MY SPECIFICATIONS:
 
