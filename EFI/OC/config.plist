@@ -1543,7 +1543,7 @@
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Acidanthera\Syrah</string>
+			<string>Acidanthera\GoldenGate</string>
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
@@ -1724,12 +1724,10 @@
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 		        <dict>
-				<key>StartupMute</key>
-				<data>0x00</data>
 				<key>SystemAudioVolume</key>
-				<data>0x4A</data>
+				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 -lilubeta -alcbeta igfxfcms=1 -btlfxallowanyaddr </string>
+				<string>keepsyms=1 debug=0x100 -lilubeta -alcbeta igfxfcms=1</string>
 				<key>csr-active-config</key>
 				<data>AwAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1884,44 +1882,28 @@
 		<key>Audio</key>
 		<dict>
 			<key>AudioCodec</key>
-			<integer>0x0</integer>
+			<integer>0</integer>
 			<key>AudioDevice</key>
-			<string>PciRoot(0x0)/Pci(0x1F,0x3)</string>
-			<key>AudioOutMask</key>
-			<integer>-1</integer>
+			<string>PciRoot(0x0)/Pci(0x1b,0x0)</string>
+			<key>AudioOut</key>
+			<integer>0</integer>
 			<key>AudioSupport</key>
-			<true/>
-			<key>DisconnectHda</key>
 			<false/>
-			<key>MaximumGain</key>
-			<integer>135</integer>
-			<key>MinimumAssistGain</key>
-			<integer>-30</integer>
-			<key>MinimumAudibleGain</key>
-			<integer>-55</integer>
+			<key>MinimumVolume</key>
+			<integer>20</integer>
 			<key>PlayChime</key>
-			<string>Enabled</string>
+			<string>Auto</string>
 			<key>ResetTrafficClass</key>
 			<false/>
 			<key>SetupDelay</key>
+			<integer>0</integer>
+			<key>VolumeAmplifier</key>
 			<integer>0</integer>
 		</dict>
 		<key>ConnectDrivers</key>
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Comment</key>
-				<string>AudioDxe.efi</string>
-				<key>Enabled</key>
-				<true/>
-				<key>LoadEarly</key>
-				<false/>
-				<key>Path</key>
-				<string>AudioDxe.efi</string>
-			</dict>
 			<dict>
 				<key>Arguments</key>
 				<string></string>
@@ -2027,7 +2009,7 @@
 			<key>UgaPassThrough</key>
 			<false/>
 			<key>UIScale</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<key>ProtocolOverrides</key>
 		<dict>
