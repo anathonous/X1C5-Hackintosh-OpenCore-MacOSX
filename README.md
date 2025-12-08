@@ -22,7 +22,7 @@ Create a bootable EFI drive (format a drive as fat32). Copy over the OpenCore(EF
 Create a bootable macOS install. On a Mac. Download 14.3.1. Using [gibMacOS](https://github.com/corpnewt/gibMacOS). Install the InstallAssistant.pkg. Show files on macOS Install Sonoma.app. [createinstallmedia](https://support.apple.com/en-us/101578) on a 32GB flashdrive. <br>
 Install Sonoma 14.3.1. May take several reboots. <br>
 Done.<br>
-(make sure to disable intel gsx in bios)<br>
+(make sure to disable intel gsx,virtualization,memory protection,secureboot in bios)<br>
 >## UPDATE:
 If you edit your opencore config.plist and change SecureBootModel from Defaults to Disabled. You will need to Reset NVRam and Clearn NVRAM afterwards. Then you can rerun the macOS Install Sonoma.app after downloading the InstallAssistant.pkg for 14.4.1 using gibMacOS and it will update to Sonoma 14.4.1. It will reboot a few times during the update. Then the second option for macOS update will disapear. You will need to change it back and update Airportitlwm.kext though. As they do not Jive. Download the [latest wifi](https://github.com/OpenIntelWireless/itlwm/releases/download/v2.3.0-alpha/AirportItlwm-Sonoma14.4-v2.3.0-DEBUG-alpha-e886ebb.zip) and update the three bluetooth related kexts [latest bluetooth](https://github.com/acidanthera/BrcmPatchRAM/releases)
 
